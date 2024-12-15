@@ -25,3 +25,6 @@ a {
 .nfts {
   color: var(--text-orange);
 }
+.header {
+  background-image: url();
+}
