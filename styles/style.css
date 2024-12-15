@@ -58,3 +58,22 @@ ul {
   font-weight: 600;
   padding: 7px 20px;
 }
+nav ul li a {
+  text-decoration: none;
+  position: relative;
+  transition: color 0.3s ease;
+}
+nav ul li a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0;
+  height: 2px;
+  background-color: var(--bg-orange);
+  transition: width 0.3s ease;
+}
+
+nav ul li a:hover::after {
+  width: 100%;
+}
