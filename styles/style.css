@@ -62,10 +62,10 @@ ul {
   font-size: 14px;
   font-weight: 600;
   padding: 7px 20px;
+  transition: background 0.2s, color 0.2s;
 }
 .btn-buy:hover {
   background: transparent;
-  border: 2px solid var(--border-white);
   color: var(--text-white);
 }
 .btn-buy img {
