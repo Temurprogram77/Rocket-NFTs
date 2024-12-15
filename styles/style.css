@@ -22,6 +22,9 @@ a {
   color: var(--text-white);
   text-decoration: none;
 }
+ul {
+  list-style: none;
+}
 .nfts {
   color: var(--text-orange);
 }
@@ -30,5 +33,8 @@ a {
   background-size: cover;
 }
 .navbar {
+  display: flex;
+}
+.pages {
   display: flex;
 }
