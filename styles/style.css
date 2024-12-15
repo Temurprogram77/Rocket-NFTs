@@ -20,3 +20,6 @@ a {
   color: var(--text-white);
   text-decoration: none;
 }
+.nfts {
+    color: var(--text-orange);
+}
