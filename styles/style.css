@@ -6,17 +6,17 @@
 :root {
   --bg-body: #0e0e0e;
   --bg-white: #fff;
-  --bg-orange: #FF5B50;
+  --bg-orange: #ff5b50;
   --bg-grey: #252525;
   --text-white: #fff;
-  --text-grey: #5A5757;
-  --text-orange: #FF5B50;
+  --text-grey: #5a5757;
+  --text-orange: #ff5b50;
 }
 body {
   background-color: var(--bg-body);
   color: var(--text-white);
 }
 a {
-    color: var(--text-white);
-    text-decoration: none;
+  color: var(--text-white);
+  text-decoration: none;
 }
