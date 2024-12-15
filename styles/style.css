@@ -12,6 +12,7 @@
   --bg-grey: #252525;
   --text-white: #fff;
   --text-grey: #5a5757;
+  --text-black: #000000;
   --text-orange: #ff5b50;
 }
 body {
@@ -39,5 +40,8 @@ ul {
   display: flex;
 }
 .btn-buy {
-  
+  background: var(--bg-white);
+  color: var(--text-black);
+  font-size: 14px;
+  font-weight: 600;
 }
