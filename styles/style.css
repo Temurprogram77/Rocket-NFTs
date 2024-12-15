@@ -26,5 +26,5 @@ a {
   color: var(--text-orange);
 }
 .header {
-  background-image: url();
+  background-image: url(/assets/img/background.png);
 }
