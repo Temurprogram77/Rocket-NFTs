@@ -41,8 +41,15 @@ ul {
   align-items: center;
   justify-content: space-between;
 }
+.logo {
+  font-size: 30px;
+  font-weight: 600;
+}
 .pages {
   display: flex;
+  gap: 50px;
+  font-size: 15px;
+  font-weight: 600;
 }
 .btn-buy {
   background: var(--bg-white);
