@@ -95,3 +95,9 @@ nav ul li a:hover::after {
   max-width: 1200px;
   margin: 0 auto;
 }
+.lorem-text {
+  font-size: 13px;
+}
+.start img {
+  width: 120px;
+}
