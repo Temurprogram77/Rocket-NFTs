@@ -89,3 +89,9 @@ nav ul li a::after {
 nav ul li a:hover::after {
   width: 100%;
 }
+.section_avatars-logo {
+  display: flex;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
