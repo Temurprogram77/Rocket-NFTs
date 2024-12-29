@@ -101,3 +101,6 @@ nav ul li a:hover::after {
 .start img {
   width: 120px;
 }
+.menu-bar {
+  display: none;
+}

@@ -1,5 +1,25 @@
+@media screen and (max-width: 1024px) {
+  .navbar {
+    margin: 0 20px;
+  }
+}
 @media screen and (max-width: 768px) {
   .menu-bar {
     display: block;
+  }
+  .navbar {
+    margin: 0 10px;
+  }
+  .pages {
+    display: none;
+  }
+  .btn-buy {
+    display: none;
+  }
+  .logo {
+    font-size: 20px;
+  }
+  .menu-bar i {
+    width: 30px;
   }
 }
